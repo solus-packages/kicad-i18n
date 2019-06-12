@@ -1,8 +1,8 @@
 name       : kicad-i18n
-version    : 5.0.0
-release    : 1
+version    : 5.1.2
+release    : 2
 source     :
-    - https://github.com/KiCad/kicad-i18n/archive/5.0.0.tar.gz : ed029a7a2fabbb388828a72eed509fed948895e2d8f848ebf91e5251de60ce4a
+    - https://github.com/KiCad/kicad-i18n/archive/5.1.2.tar.gz : a07ffc5c5cb61b2a81ff7716fbfd8f0d7a470961e7660d5d8e424a91bcf7d6e7
 license    : Public Domain
 component  : office
 summary    : Translations for KiCad
