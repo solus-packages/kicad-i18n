@@ -2,10 +2,10 @@
     <Source>
         <Name>kicad-i18n</Name>
         <Packager>
-            <Name>Beatrice T. Meyers</Name>
-            <Email>beatrice@getsol.us</Email>
+            <Name>Thomas Staudinger</Name>
+            <Email>Staudi.Kaos@gmail.com</Email>
         </Packager>
-        <License>Public Domain</License>
+        <License>Public-Domain</License>
         <PartOf>office.scientific</PartOf>
         <Summary xml:lang="en">Translations for KiCad</Summary>
         <Description xml:lang="en">po files that is used for the GUI translations for KiCad
@@ -45,12 +45,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="4">
-            <Date>2022-03-11</Date>
+        <Update release="5">
+            <Date>2023-01-07</Date>
             <Version>5.1.12</Version>
             <Comment>Packaging update</Comment>
-            <Name>Beatrice T. Meyers</Name>
-            <Email>beatrice@getsol.us</Email>
+            <Name>Thomas Staudinger</Name>
+            <Email>Staudi.Kaos@gmail.com</Email>
         </Update>
     </History>
 </PISI>
